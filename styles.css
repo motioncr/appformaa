@@ -200,7 +200,12 @@ button:hover {
 .close:focus {
     outline: none;
 }
-
 .close span {
     font-size: 25px;
+}
+#msg {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 30px;
 }
