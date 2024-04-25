@@ -67,6 +67,14 @@ button:hover {
     padding: 0 5px;
 }
 
+#total-amount{
+    padding-left: 160px;
+}
+
+#design-amount {
+    padding-left: 160px;
+}
+
 .additional-info .info-left,
 .additional-info .info-right {
     flex-grow: 1;
